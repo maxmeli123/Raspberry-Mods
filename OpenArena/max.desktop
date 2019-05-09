@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=OpenArena
-Comment=Free Open Arena game 
-Icon=/usr/share/icons/hicolor/128x128/apps/openarena128.png
-Exec=/home/pi/Desktop/Scripts/OpenArena_Launch.sh
-Type=Application
-Encoding=UTF-8
-Terminal=true
-Categories=Games;

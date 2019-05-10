@@ -6,13 +6,11 @@ The launcher tell you to run OpenArena by selecting resolution.
 
 Before run these scripts you need to set permissons with:
 
-sudo chmod +x ./OpenArena_Install
-sudo chmod +x ./OpenArena_Run
+sudo chmod +x script_name.sh
 
 Then you can run run scripts by terminal with:
 
-./OpenArena_Install.sh
-./OpenArena_Run.sh
+./script_name.sh
 
 or just put 'OpenArena.desktop' shortcut on your desktop, edit it with a text editor by putting the right paths for "Icon" and "Exec", then you can run just by doubleclick it.
 

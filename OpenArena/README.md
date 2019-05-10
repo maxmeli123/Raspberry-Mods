@@ -12,7 +12,7 @@ Then you can run scripts from terminal with:
 
 ./script_name.sh
 
-or just put 'OpenArena.desktop' shortcut on your desktop, edit it with a text editor by putting the right paths for "Icon" and "Exec", then you can run just by doubleclick it.
+or just put 'OpenArena.desktop' shortcut on your desktop, edit it with a text editor by putting the right paths for "Icon" and "Exec", then you can run just by doubleclick on it.
 
 As for other games OpenArena need OpenGL driver enabled, the installer automatically check if you have it already enabled, if not enabled launch raspi-config for you, after you enabdled it you have to reboot and then rerun the installer to continue installation.
 

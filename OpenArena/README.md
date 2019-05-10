@@ -8,7 +8,7 @@ Before run these scripts you need to set permissons with:
 
 sudo chmod +x script_name.sh
 
-Then you can run run scripts by terminal with:
+Then you can run scripts from terminal with:
 
 ./script_name.sh
 

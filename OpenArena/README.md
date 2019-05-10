@@ -17,4 +17,6 @@ or just put 'OpenArena.desktop' shortcut on your desktop, edit it with a text ed
 
 As for other games OpenArena need OpenGL driver enabled, the installer automatically check if you have it already enabled, if not, launch raspi-config for you, after you have enabled it, reboot and then rerun the installer to continue installation.
 
+Tested on Raspberry 3B and Raspberry Zero W.
+
 Enjoy

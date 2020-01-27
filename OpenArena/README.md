@@ -19,4 +19,7 @@ As for other games OpenArena need OpenGL driver enabled, the installer automatic
 
 Tested on Raspberry 3B and Raspberry Zero W.
 
+Please, tell me if this has worked for you a the Raspberry model
+you used so I can improve it and fix bugs if any. Thanks
+
 Enjoy

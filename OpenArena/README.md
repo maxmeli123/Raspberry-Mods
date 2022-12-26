@@ -5,7 +5,7 @@ The installer download and install OpenArena from Official Raspberry Repositorie
 
 The launcher tell you to run OpenArena by selecting resolution, for now it run in full screen mode, but you can change to window mode by edit the OpenArena_Run.sh script and set FULL_SCREEN variable to 0. By change HDMI-1 to DSI-1 output and add 800x480 screen  resolution it can work on official Raspberry touschscreen.
 
-Before run these scripts you need to set permissons with:
+Before run these scripts you need to set permissions with:
 
 sudo chmod +x script_name.sh
 
